@@ -30,7 +30,7 @@ Complexity Analysis :
 -----------------------------------
 
 TC : O(sum(trip distance))
-SC : O(max(trip distance))
+SC : O(max(trip distance)) / O(1)
 
 
 Verdict :
