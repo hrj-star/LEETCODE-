@@ -33,5 +33,8 @@ Time complexity : O(n ^ 2). Two for loops run n(n-1)/2 times.
 
 Space complexity : O(1). Only two variables are used - max and profit.
 
+Verdict :
+------------------
+TLE
 
 */

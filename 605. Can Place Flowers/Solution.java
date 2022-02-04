@@ -95,12 +95,26 @@ class Solution {
 }
 
 
+
+
 /*
 
 Complexity Analysis :
-
-TC : O(N)
+------------------------------------
+TC : O(N) , N = length of flowerbed
 SC : O(1) - constant space used.
+
+Verdict :
+-----------------------------------
+Runtime: 2 ms, faster than 31.85% of Java online submissions for Can Place Flowers.
+Memory Usage: 49.6 MB, less than 10.07% of Java online submissions for Can Place Flowers.
+
+
+Handy Links :
+-----------------------------------
+https://leetcode.com/submissions/detail/622309310/
+https://leetcode.com/problems/can-place-flowers/discuss/1698539/By-Explanation.-I-made-it-so-easy
+
 
 */
 
